@@ -1,0 +1,2 @@
+this is my new file created in local repo 
+I like git distributed and planing to push into repository
