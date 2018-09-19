@@ -1,2 +1,3 @@
 this is my new file created in local repo 
 I like git distributed and planing to push into repository
+other distribution tools are Bazaar and mercurial
